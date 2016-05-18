@@ -1,4 +1,4 @@
 Collection : if you want to represent a group of individual object as a set of entity then we should go for collection.
 collection is root interface for List,set,shortedset,queue,NavigableSet,
 
-Collections : collections is the class which provide various method to sort the collection
+Collections : collections is the class which provide various method to sort the collection interface
