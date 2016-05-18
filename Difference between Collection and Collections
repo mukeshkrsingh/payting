@@ -1,0 +1,4 @@
+Collection : if you want to represent a group of individual object as a set of entity then we should go for collection.
+collection is root interface for List,set,shortedset,queue,dequeue,
+
+Collections :
